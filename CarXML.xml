@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<root>
+    <vehicle>
+        <id>0001</id>
+        <make>Jeep</make>
+        <model>Grand Cherokee</model>
+        <color>Black</color>
+        <licenseplate>002192</licenseplate>
+        <year>2015</year>
+    </vehicle>
+     <vehicle>
+        <id>0002</id>
+        <make>Ford</make>
+        <model>F150</model>
+        <color>Red</color>
+        <licenseplate>271F3</licenseplate>
+        <year>2010</year>
+    </vehicle>
+</root>
